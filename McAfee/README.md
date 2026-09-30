@@ -7,6 +7,7 @@ on managed Apple devices.
 ## Profiles
 
 - CFS McAfee Configuration
+- SEPC McAfee Configuration
 
 ## Deployment Notes
 
