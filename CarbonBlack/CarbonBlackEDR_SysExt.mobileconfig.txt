@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>SEPC Whitelist for McAfee Products</string>
+			<key>PayloadDisplayName</key>
+			<string>SEPC Whitelist for McAfee Products</string>
+			<key>PayloadIdentifier</key>
+			<string>com.mcafee.macsepc.81FAA67A-125D-47CF-9391-C1D209054DAB</string>
+			<key>PayloadOrganization</key>
+			<string>McAfee, LLC</string>
+			<key>PayloadType</key>
+			<string>com.apple.system-extension-policy</string>
+			<key>PayloadUUID</key>
+			<string>4036D7CA-4988-4EC4-AE8B-A8D2AC3491B0</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>AllowedSystemExtensions</key>
+			<dict>
+				<key>GT8P3H7SPW</key>
+				<array>
+					<string>com.mcafee.CMF.networkextension</string>
+					<string>com.mcafee.CMF.endpointsecurity</string>
+				</array>
+			</dict>
+			<key>AllowUserOverrides</key>
+			<true/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>SEPC Whitelist for McAfee Products</string>
+	<key>PayloadDisplayName</key>
+	<string>SEPC Whitelist for McAfee Products</string>
+	<key>PayloadIdentifier</key>
+	<string>com.mcafee.macsepc</string>
+	<key>PayloadOrganization</key>
+	<string>McAfee, LLC</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>A19BB039-4758-4F76-A0B7-2F7696AC4095</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>	
+	<key>PayloadScope</key>
+	<string>System</string>	
+</dict>
+</plist>

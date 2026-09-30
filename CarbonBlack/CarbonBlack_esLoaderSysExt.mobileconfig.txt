@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AllowUserOverrides</key>
+			<true/>
+			<key>AllowedSystemExtensions</key>
+			<dict>
+				<key>7AGZNQ2S2T</key>
+					<string>com.carbonblack.es-loader.es-extension</string>
+				<array/>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>Configures System Extensions Policy</string>
+			<key>PayloadDisplayName</key>
+			<string>System Extension Policy</string>
+			<key>PayloadIdentifier</key>
+			<string>com.github.erikberglund.ProfileCreator.C0E3BA36-BC80-484F-8880-DE9E75300BF9.com.apple.system-extension-policy.E713BF51-E928-46D0-9688-C50CD84C8A66</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.system-extension-policy</string>
+			<key>PayloadUUID</key>
+			<string>E713BF51-E928-46D0-9688-C50CD84C8A66</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Systems Extensions for Carbon Black ES Loader</string>
+	<key>PayloadDisplayName</key>
+	<string>CarbonBlack_esLoaderSysExt</string>
+	<key>PayloadIdentifier</key>
+	<string>com.github.erikberglund.ProfileCreator.C0E3BA36-BC80-484F-8880-DE9E75300BF9</string>
+	<key>PayloadOrganization</key>
+	<string>Realogy, Inc.</string>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>C0E3BA36-BC80-484F-8880-DE9E75300BF9</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

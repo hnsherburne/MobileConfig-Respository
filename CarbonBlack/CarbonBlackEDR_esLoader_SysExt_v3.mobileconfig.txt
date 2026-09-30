@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+	<dict>
+		<key>PayloadUUID</key>
+		<string>86776A51-0E8C-4646-9F55-B403084A2E2F</string> 
+		<key>PayloadIdentifier</key>
+		<string>86776A51-0E8C-4646-9F55-B403084A2E2F</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadOrganization</key>
+		<string>Realogy</string>
+		<key>PayloadDisplayName</key>
+		<string>Allow Carbon Black EDR macOS System Extension</string>
+		<key>PayloadDescription</key>
+		<string>System Extensions for Carbon Black EDR</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadEnabled</key>
+		<true/>
+		<key>PayloadRemovalDisallowed</key>
+		<true/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadUUID</key>
+				<string>97920FAD-926B-4AF6-A2FA-A770AB07DC83</string>
+				<key>PayloadIdentifier</key>
+				<string>97920FAD-926B-4AF6-A2FA-A770AB07DC83</string>
+				<key>PayloadType</key>
+				<string>com.apple.system-extension-policy</string>
+				<key>PayloadOrganization</key>
+				<string>Realogy</string>
+				<key>PayloadDisplayName</key>
+				<string>System Extensions</string>
+				<key>PayloadDescription</key>
+				<string>Configures System Extensions Policy settings for Carbon Black EDR Team ID 7AGZNQ2S2T</string>
+				<key>AllowUserOverrides</key>
+				<true/>
+				<key>AllowedSystemExtensions</key>
+				<dict>
+					<key>7AGZNQ2S2T</key>
+					<array>
+						<string>com.carbonblack.es-loader.es-extension</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</plist>
