@@ -3,6 +3,9 @@
 
 A collection of Apple `.mobileconfig` configuration
 profiles for device management and administration.
+Rename from '.txt' to '.mobileconfig' to test.  
+Profiles created with iMazing Profile creator and
+Apple Configurator 2
 
 ## Purpose
 
