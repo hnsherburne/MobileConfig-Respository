@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+	<dict>
+		<key>PayloadUUID</key>
+		<string>7F361A8F-D1F0-465F-BE0A-E4C8D7B18025</string> 
+		<key>PayloadIdentifier</key>
+		<string>7F361A8F-D1F0-465F-BE0A-E4C8D7B18025</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadOrganization</key>
+		<string>PIMCO</string>
+		<key>PayloadDisplayName</key>
+		<string>Allow Global Protect macOS System Extension</string>
+		<key>PayloadDescription</key>
+		<string>System Extensions for Global Protect - Palo Alto</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+		<key>PayloadEnabled</key>
+		<true/>
+		<key>PayloadRemovalDisallowed</key>
+		<true/>
+		<key>PayloadScope</key>
+		<string>System</string>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>PayloadUUID</key>
+				<string>B5574C28-1122-4E6F-9B40-12E495F00B51</string>
+				<key>PayloadIdentifier</key>
+				<string>B5574C28-1122-4E6F-9B40-12E495F00B51</string>
+				<key>PayloadType</key>
+				<string>com.apple.system-extension-policy</string>
+				<key>PayloadOrganization</key>
+				<string>PIMCO</string>
+				<key>PayloadDisplayName</key>
+				<string>System Extensions</string>
+				<key>PayloadDescription</key>
+				<string>Configures System Extensions Policy settings for Global Protect Team ID PXPZ95SK77</string>
+				<key>AllowUserOverrides</key>
+				<true/>
+				<key>AllowedSystemExtensions</key>
+				<dict>
+					<key>PXPZ95SK77</key>
+					<array>
+						<string>com.paloaltonetworks.GlobalProtect.client.extension</string>
+					</array>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+</plist>
