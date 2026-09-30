@@ -1,7 +1,7 @@
 
 # Commvault Configuration Profiles
 
-Configuration profiles for Carbon Black security software
+Configuration profiles for Commvault software
 on managed Apple devices.
 
 ## Profiles
