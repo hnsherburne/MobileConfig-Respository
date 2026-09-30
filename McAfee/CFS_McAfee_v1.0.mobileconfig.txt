@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadDescription</key>
+			<string>CFS Whitelist for McAfee Products</string>
+			<key>PayloadDisplayName</key>
+			<string>CFS Whitelist for McAfee Products</string>
+			<key>PayloadIdentifier</key>
+			<string>com.mcafee.maccfs.801DD9D8-26AA-402A-A548-1FB0833F476E</string>
+			<key>PayloadOrganization</key>
+			<string>McAfee, LLC</string>
+			<key>PayloadType</key>
+			<string>com.apple.webcontent-filter</string>			
+			<key>PayloadUUID</key>
+			<string>BD124DEB-5444-48A8-BE44-5D22FB9D846B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>FilterType</key>
+			<string>Plugin</string>
+			<key>FilterGrade</key>
+			<string>firewall</string>
+			<key>UserDefinedName</key>
+			<string>McAfee Firewall Content Filter</string>
+			<key>PluginBundleID</key>
+			<string>com.mcafee.containerapp</string>
+			<key>FilterSockets</key>
+			<true/>
+			<key>FilterDataProviderBundleIdentifier</key>
+			<string>com.mcafee.CMF.networkextension</string>
+			<key>FilterDataProviderDesignatedRequirement</key>
+			<string>anchor apple generic and identifier "com.mcafee.CMF.networkextension" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = GT8P3H7SPW)</string>
+			<key>FilterPackets</key>
+			<true/>
+			<key>FilterPacketProviderBundleIdentifier</key>
+			<string>com.mcafee.CMF.networkextension</string>
+			<key>FilterPacketProviderDesignatedRequirement</key>
+			<string>anchor apple generic and identifier "com.mcafee.CMF.networkextension" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = GT8P3H7SPW)</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>CFS Whitelist for McAfee Products</string>
+	<key>PayloadDisplayName</key>
+	<string>CFS Whitelist for McAfee Products</string>
+	<key>PayloadIdentifier</key>
+	<string>com.mcafee.maccfs</string>
+	<key>PayloadOrganization</key>
+	<string>McAfee, LLC</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>495EE7C6-27E9-45D6-A8F5-85A099F4A934</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadScope</key>
+	<string>System</string>
+</dict>
+</plist>
