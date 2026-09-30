@@ -1,7 +1,7 @@
 
 # McAfee Configuration Profiles
 
-Configuration profiles for Carbon Black security software
+Configuration profiles for McAfee security software
 on managed Apple devices.
 
 ## Profiles
