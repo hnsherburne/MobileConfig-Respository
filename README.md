@@ -1,10 +1,9 @@
 
 # Apple Configuration Profiles
 
-A collection of Apple `.mobileconfig` configuration
-profiles for device management and administration.
-Rename from '.txt' to '.mobileconfig' to test.  Profiles created with iMazing Profile creator and
-Apple Configurator 2
+A collection of Apple configuration profiles (.mobileconfig) for macOS and iOS device management. Profiles cover practical configuration and administration scenarios using Apple Configurator and iMazing Profile Editor.
+
+Designed as a technical reference for Apple device management, configuration, and endpoint security.
 
 ## Purpose
 
